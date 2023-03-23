@@ -28,4 +28,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[Apache License 2.0](Apache License 2.0)
+[Apache License 2.0](https://github.com/flaketill/github-qwiklabs-3/blob/main/LICENSE)
